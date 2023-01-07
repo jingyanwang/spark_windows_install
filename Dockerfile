@@ -35,6 +35,7 @@ RUN pip3 install notebook==6.4.0
 
 RUN pip3 install pyarrow==10.0.1
 RUN pip3 install fastparquet==2022.12.0
+RUN pip3 install numpy==1.23.1
 
 ####
 
